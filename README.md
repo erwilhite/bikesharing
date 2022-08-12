@@ -4,7 +4,8 @@
 
 This analysis was performed to provide insight to the population renting CitiBikes in NYC and details about their trips to determine if this concept might be successful in Des Moines, Iowa. 
 Results:
-https://public.tableau.com/app/profile/emma.wilhite/viz/Module14Challenge_16602647416190/CitiBikeStory?publish=yes
+
+[link to dashboard] (https://public.tableau.com/app/profile/emma.wilhite/viz/Module14Challenge_16602647416190/CitiBikeStory?publish=yes)
 
 The results show 
 Summary:
